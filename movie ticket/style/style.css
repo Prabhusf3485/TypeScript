@@ -1,0 +1,33 @@
+#button{
+    width: 150px;
+    height: 30px;
+    margin-left: 50px;
+    border:  2px solid rgb(67, 3, 73);
+    background-color: rgb(143, 253, 129);
+    color: rgb(10, 19, 9);
+    margin-top: 10px;
+    font-size: 15px;
+}
+#loginbutton{
+    width: 150px;
+    height: 30px;
+    margin-left: 50px;
+    border:  2px solid rgb(67, 3, 73);
+    background-color: rgb(143, 253, 129);
+    color: rgb(10, 19, 9);
+    margin-top: 10px;
+    font-size: 15px;
+
+}
+#logindiv{
+    display: none;
+}
+#loginin{
+    display: none;
+}
+#mainname{
+    display: none;
+}
+#movielist{
+    display: none;
+}
